@@ -1,6 +1,6 @@
 # Hi, I'm Jonny 👋
 
-A creative frontend developer, watersports enthusiast and curious human.
+A creative frontend developer, watersports enthusiast and inquisitive human.
 
 💚 Vue/Nuxt.js
 <br/>
