@@ -1,4 +1,4 @@
-# Hi I'm Jonny 👋
+# Hi, I'm Jonny 👋
 
 [![Website](https://img.shields.io/website?label=jonsnow.world&style=for-the-badge&color=c3fffa&url=https%3A%2F%2Fjonsnow.world)](https://jonsnow.world)
 
