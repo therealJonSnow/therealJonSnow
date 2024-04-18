@@ -10,4 +10,4 @@ A creative frontend developer, watersports enthusiast and inquisitive human.
 <br/>
 🥜 Peanut Butter
 
-🌍 [Take a look into my world](https://jonsnow.world) 🌍
+🌍 [Take a look into my world](https://snowww.co.uk) 🌍
